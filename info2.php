@@ -28,7 +28,7 @@ function returnJsonHttpResponse($success, $data)
 {
     // remove any string that could create an invalid JSON 
     // such as PHP Notice, Warning, logs...
-    ob_clean();
+   // ob_clean();
 
     // this will clean up any previously added headers, to start clean
     header_remove(); 
