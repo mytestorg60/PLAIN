@@ -35,7 +35,7 @@ function returnJsonHttpResponse($success, $data)
 
     // Set the content type to JSON and charset 
     // (charset can be set to something else)
-    header("Content-type: application/json; charset=utf-8");
+    header("Content-type: text/plain; charset=utf-8");
 
     // Set your HTTP response code, 2xx = SUCCESS, 
     // anything else will be error, refer to HTTP documentation
