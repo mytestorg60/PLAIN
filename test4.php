@@ -10,4 +10,6 @@ foreach($iterator as $entry) {
 
 }
 
+var_dump($arrFiles)
+
 ?>
