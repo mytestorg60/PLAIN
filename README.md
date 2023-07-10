@@ -2,7 +2,7 @@
 
 This is a plain HTML website. You can use it as a starting point for your project or to give [Deploy Now](https://www.ionos.com/hosting/deploy-now) a try.
 
-## How to deploy it 
+## How to deploy it  
 
 1. [Sign in or sign up](https://ionos.space/sign-up) for Deploy Now
 2. Click this button and name your new repo
